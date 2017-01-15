@@ -79,5 +79,5 @@ To know more about Karma: https://www.npmjs.com/package/karma
 ## Notes:
 
  * After build the project you can check the `index.html` into `./dist/` directory
- * To clean the generated files execute the clean script: `$ npm run clean
+ * To clean the generated files execute the clean script: `$ npm run clean`
  * To linting the project run: `$ npm run lint`
