@@ -63,11 +63,11 @@ Should work automatically. Reactions will also count towards your postive and ne
 
 After you have configured the dashboard, run `webpack` to build the app. The result will be in the `dist` directory, which you can then copy into your web server to serve it from.
 
- * Command line : `$ npm run dev-build
-
+ * Command line : `$ npm run dev-build`
+ 
 ## Starting
 
- * Run the build : `$ npm run dev-build
+ * Run the build : `$ npm run dev-build`
  * Run the start script: `$ npm run start`
  * Go to: http://localhost:8080/webpack-dev-server/
 
@@ -79,5 +79,5 @@ To know more about Karma: https://www.npmjs.com/package/karma
 ## Notes:
 
  * After build the project you can check the `index.html` into `./dist/` directory
- * To clean the generated files execute the clean script: `$ npm run clean`
+ * To clean the generated files execute the clean script: `$ npm run clean` 
  * To linting the project run: `$ npm run lint`
